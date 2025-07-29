@@ -146,7 +146,7 @@ function showRockets() {
 // العد التنازلي حتى 11 أغسطس بتوقيت الجزائر
 function updateCountdown() {
     // تحديد تاريخ 11 أغسطس 2025 بتوقيت الجزائر (UTC+1)
-    const targetDate = new Date('2024-08-11T00:00:00+01:00');
+    const targetDate = new Date('2025-08-11T00:00:00+01:00');
     const now = new Date();
     
 
